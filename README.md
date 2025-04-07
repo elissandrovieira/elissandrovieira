@@ -13,6 +13,7 @@ I'm Eli, a student at [42 Rio](https://42.rio/).
 <a href="">![42 Badge](https://github.com/elissandrovieira/HELLO/blob/main/42_badges/minitalke.png)</a>
 <a href="">![42 Badge](https://github.com/elissandrovieira/HELLO/blob/main/42_badges/fract-ole.png)</a>
 <a href="">![42 Badge](https://github.com/elissandrovieira/HELLO/blob/main/42_badges/push_swape.png)</a>
+<a href="">![42 Badge](https://github.com/elissandrovieira/HELLO/blob/main/42_badges/philosophers.png)</a>
 
 </div>
 
